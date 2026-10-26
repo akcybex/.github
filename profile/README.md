@@ -31,26 +31,34 @@ AKCybex is a software development and IT services company. We partner with start
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/services/software.svg" width="44" align="left" alt="">
-<b>&nbsp;Custom software</b><br>
-&nbsp;Web applications, APIs, admin panels, e-commerce storefronts and internal tools, built to spec and shipped to production.
+<br>
+<img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/services/software.svg" width="40" alt=""><br><br>
+<b>Custom software</b><br>
+Web applications, APIs, admin panels, e-commerce storefronts and internal tools, built to spec and shipped to production.
+<br><br>
 </td>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/services/mobile.svg" width="44" align="left" alt="">
-<b>&nbsp;Mobile apps</b><br>
-&nbsp;Cross-platform iOS and Android apps built with React Native and Expo, backed by the APIs we build alongside them.
+<br>
+<img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/services/mobile.svg" width="40" alt=""><br><br>
+<b>Mobile apps</b><br>
+Cross-platform iOS and Android apps built with React Native and Expo, backed by the APIs we build alongside them.
+<br><br>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/services/it.svg" width="44" align="left" alt="">
-<b>&nbsp;IT services</b><br>
-&nbsp;Infrastructure, DevOps, Docker environments, third-party integrations and the long-term maintenance that keeps systems healthy.
+<br>
+<img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/services/it.svg" width="40" alt=""><br><br>
+<b>IT services</b><br>
+Infrastructure, DevOps, Docker environments, third-party integrations and the long-term maintenance that keeps systems healthy.
+<br><br>
 </td>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/services/saas.svg" width="44" align="left" alt="">
-<b>&nbsp;SaaS products</b><br>
-&nbsp;Multi-tenant products we design, build and operate ourselves, from first prototype to paying customers.
+<br>
+<img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/services/saas.svg" width="40" alt=""><br><br>
+<b>SaaS products</b><br>
+Multi-tenant products we design, build and operate ourselves, from first prototype to paying customers.
+<br><br>
 </td>
 </tr>
 </table>
