@@ -28,40 +28,12 @@ AKCybex is a software development and IT services company. We partner with start
 
 ## What we do
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<br>
-<img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/services/software.svg" width="40" alt=""><br><br>
-<b>Custom software</b><br>
-Web applications, APIs, admin panels, e-commerce storefronts and internal tools, built to spec and shipped to production.
-<br><br>
-</td>
-<td width="50%" valign="top">
-<br>
-<img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/services/mobile.svg" width="40" alt=""><br><br>
-<b>Mobile apps</b><br>
-Cross-platform iOS and Android apps built with React Native and Expo, backed by the APIs we build alongside them.
-<br><br>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<br>
-<img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/services/it.svg" width="40" alt=""><br><br>
-<b>IT services</b><br>
-Infrastructure, DevOps, Docker environments, third-party integrations and the long-term maintenance that keeps systems healthy.
-<br><br>
-</td>
-<td width="50%" valign="top">
-<br>
-<img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/services/saas.svg" width="40" alt=""><br><br>
-<b>SaaS products</b><br>
-Multi-tenant products we design, build and operate ourselves, from first prototype to paying customers.
-<br><br>
-</td>
-</tr>
-</table>
+<p align="center">
+<a href="https://akcybex.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/software-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/software-light.svg"><img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/software-light.svg" alt="Custom software" width="49%"></picture></a>
+<a href="https://akcybex.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/mobile-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/mobile-light.svg"><img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/mobile-light.svg" alt="Mobile apps" width="49%"></picture></a>
+<a href="https://akcybex.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/it-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/it-light.svg"><img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/it-light.svg" alt="IT services" width="49%"></picture></a>
+<a href="https://akcybex.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/saas-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/saas-light.svg"><img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/saas-light.svg" alt="SaaS products" width="49%"></picture></a>
+</p>
 
 <br>
 
