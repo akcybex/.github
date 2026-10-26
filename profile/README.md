@@ -41,13 +41,14 @@ AKCybex is a software development and IT services company. We partner with start
 
 Libraries we extracted from real projects and maintain in the open.
 
-| Project | What it does | Language | Install |
-| :--- | :--- | :--- | :--- |
-| [**jstr**](https://github.com/akcybex/jstr) | String utilities for JavaScript and TypeScript inspired by Laravel's `Str` helper: slugify, UUIDs, password generation and more. | <img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/lang/typescript.svg" width="10" alt=""> TypeScript | [`@akcybex/jstr`](https://www.npmjs.com/package/@akcybex/jstr) |
-| [**laravel-jazzcash**](https://github.com/akcybex/laravel-jazzcash) | JazzCash payment gateway integration for Laravel applications. | <img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/lang/php.svg" width="10" alt=""> PHP | [`akcybex/laravel-jazzcash`](https://packagist.org/packages/akcybex/laravel-jazzcash) |
-| [**react**](https://github.com/akcybex/react) | Essential components for React, Next.js and Gatsby apps. | <img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/lang/typescript.svg" width="10" alt=""> TypeScript | [`@akcybex/react`](https://www.npmjs.com/package/@akcybex/react) |
-| [**sail**](https://github.com/akcybex/sail) | Docker Compose setups for spinning up application environments. | <img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/lang/shell.svg" width="10" alt=""> Shell | [Repository](https://github.com/akcybex/sail) |
-| [**php-youtube**](https://github.com/akcybex/php-youtube) | PHP helpers for working with YouTube. | <img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/lang/php.svg" width="10" alt=""> PHP | [Repository](https://github.com/akcybex/php-youtube) |
+<p align="center">
+<a href="https://github.com/akcybex/jstr"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/oss-jstr-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/oss-jstr-light.svg"><img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/oss-jstr-light.svg" alt="jstr" width="49%"></picture></a>
+<a href="https://github.com/akcybex/react"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/oss-react-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/oss-react-light.svg"><img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/oss-react-light.svg" alt="react" width="49%"></picture></a>
+<a href="https://github.com/akcybex/laravel-jazzcash"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/oss-laravel-jazzcash-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/oss-laravel-jazzcash-light.svg"><img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/oss-laravel-jazzcash-light.svg" alt="laravel-jazzcash" width="49%"></picture></a>
+<a href="https://github.com/akcybex/sail"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/oss-sail-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/oss-sail-light.svg"><img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/oss-sail-light.svg" alt="sail" width="49%"></picture></a>
+</p>
+
+<p align="center"><sub>Also on GitHub: <a href="https://github.com/akcybex/php-youtube">php-youtube</a> · <a href="https://www.npmjs.com/org/akcybex">npm</a> · <a href="https://packagist.org/packages/akcybex/">Packagist</a> · <a href="https://github.com/orgs/akcybex/repositories">all repositories</a></sub></p>
 
 Contributions are welcome on every repository. Open an issue to discuss larger changes first, keep pull requests focused, and report security issues privately to [developers@akcybex.com](mailto:developers@akcybex.com) rather than in a public issue.
 
