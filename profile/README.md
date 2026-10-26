@@ -6,142 +6,41 @@
 
 <br/>
 
-<a href="https://akcybex.com"><img src="https://img.shields.io/badge/Website-akcybex.com-15111b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>&nbsp;
-<a href="mailto:developers@akcybex.com"><img src="https://img.shields.io/badge/Email-developers%40akcybex.com-15111b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+<a href="https://akcybex.com"><img src="https://img.shields.io/badge/Website-akcybex.com-15111b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+&nbsp;
+<a href="mailto:developers@akcybex.com"><img src="https://img.shields.io/badge/Email-developers%40akcybex.com-15111b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+&nbsp;
 <a href="https://github.com/orgs/akcybex/repositories"><img src="https://img.shields.io/badge/Open%20Source-Explore-6b5fb8?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" /></a>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/divider.svg" alt="" width="100%" />
-
-</div>
-
-<br/>
-
-<table align="center" border="0">
-<tr>
-<td width="55%" valign="top">
-
-### Who we are
-
-**AKCybex** is a software development and IT services company. We partner with startups and established businesses to take products from idea to production, and we build and operate our own SaaS products along the way.
-
-Everything we learn while shipping client and product work flows back into our **open-source libraries**, which anyone is free to use.
-
-</td>
-<td width="45%" valign="top">
-
-### At a glance
-
-| | |
-| --- | --- |
-| 🏢 **Focus** | Custom software, IT services, SaaS |
-| 🧩 **Open source** | PHP, Laravel, JavaScript, TypeScript |
-| 🌍 **Working with** | Startups & established businesses |
-| 📬 **Contact** | [developers@akcybex.com](mailto:developers@akcybex.com) |
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-## 🛠️ What we do
-
-<table border="0">
-<tr>
-<td align="center" width="20%" valign="top">
-<br/>
-<img src="https://img.icons8.com/fluency/64/source-code.png" width="48" alt="" /><br/><br/>
-<b>Custom Software</b><br/><br/>
-<sub>Web apps, APIs, admin panels, e-commerce storefronts and internal tools built to spec</sub>
-<br/><br/>
-</td>
-<td align="center" width="20%" valign="top">
-<br/>
-<img src="https://img.icons8.com/fluency/64/smartphone-tablet.png" width="48" alt="" /><br/><br/>
-<b>Mobile Apps</b><br/><br/>
-<sub>Cross-platform mobile applications with React Native and Expo</sub>
-<br/><br/>
-</td>
-<td align="center" width="20%" valign="top">
-<br/>
-<img src="https://img.icons8.com/fluency/64/cloud-network.png" width="48" alt="" /><br/><br/>
-<b>IT Services</b><br/><br/>
-<sub>Infrastructure, DevOps, Docker environments, integrations and ongoing maintenance</sub>
-<br/><br/>
-</td>
-<td align="center" width="20%" valign="top">
-<br/>
-<img src="https://img.icons8.com/fluency/64/rocket.png" width="48" alt="" /><br/><br/>
-<b>SaaS Products</b><br/><br/>
-<sub>Multi-tenant products designed, built and operated in-house</sub>
-<br/><br/>
-</td>
-<td align="center" width="20%" valign="top">
-<br/>
-<img src="https://img.icons8.com/fluency/64/open-source.png" width="48" alt="" /><br/><br/>
-<b>Open Source</b><br/><br/>
-<sub>Reusable packages for the PHP, Laravel, JavaScript and TypeScript ecosystems</sub>
-<br/><br/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🧰 Technology we work with
-
-<img src="https://skillicons.dev/icons?i=php,laravel,ts,js,react,nextjs,python,docker,wordpress,mysql,tailwind,nodejs&perline=12" alt="PHP, Laravel, TypeScript, JavaScript, React, Next.js, Python, Docker, WordPress, MySQL, Tailwind, Node.js" />
+<img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/about.svg" alt="AKCybex is a software development and IT services company. We partner with startups and established businesses to take products from idea to production, and we build and operate our own SaaS products along the way. Everything we learn while shipping client and product work flows back into our open-source libraries, which anyone is free to use." width="100%" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/divider.svg" alt="" width="100%" />
+## What we do
+
+<img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/services.svg" alt="Custom software, mobile apps, IT services, SaaS products and open source" width="100%" />
+
+<br/><br/>
+
+## Technology we work with
+
+<img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/stack.svg" alt="PHP, Laravel, TypeScript, JavaScript, React, Next.js, Node.js, Python, Docker, MySQL, Tailwind CSS, WordPress" width="100%" />
+
+<br/><br/>
+
+## Featured open source
+
+<a href="https://github.com/akcybex/jstr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akcybex&repo=jstr&bg_color=15111b&title_color=5fb8e8&icon_color=b56fb8&text_color=c9c4d6&border_color=2a2438" alt="jstr" /></a>
+&nbsp;
+<a href="https://github.com/akcybex/laravel-jazzcash"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akcybex&repo=laravel-jazzcash&bg_color=15111b&title_color=5fb8e8&icon_color=b56fb8&text_color=c9c4d6&border_color=2a2438" alt="laravel-jazzcash" /></a>
+
+<a href="https://github.com/akcybex/react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akcybex&repo=react&bg_color=15111b&title_color=5fb8e8&icon_color=b56fb8&text_color=c9c4d6&border_color=2a2438" alt="react" /></a>
+&nbsp;
+<a href="https://github.com/akcybex/sail"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akcybex&repo=sail&bg_color=15111b&title_color=5fb8e8&icon_color=b56fb8&text_color=c9c4d6&border_color=2a2438" alt="sail" /></a>
 
 <br/>
-
-## 📦 Featured open source
-
-</div>
-
-<table align="center" border="0">
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/akcybex/jstr">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akcybex&repo=jstr&theme=midnight-purple&bg_color=15111b&title_color=5fb8e8&icon_color=b56fb8&text_color=c9c4d6&border_color=2a2438" alt="jstr" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/akcybex/laravel-jazzcash">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akcybex&repo=laravel-jazzcash&theme=midnight-purple&bg_color=15111b&title_color=5fb8e8&icon_color=b56fb8&text_color=c9c4d6&border_color=2a2438" alt="laravel-jazzcash" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/akcybex/react">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akcybex&repo=react&theme=midnight-purple&bg_color=15111b&title_color=5fb8e8&icon_color=b56fb8&text_color=c9c4d6&border_color=2a2438" alt="react" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/akcybex/sail">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akcybex&repo=sail&theme=midnight-purple&bg_color=15111b&title_color=5fb8e8&icon_color=b56fb8&text_color=c9c4d6&border_color=2a2438" alt="sail" />
-</a>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
@@ -159,7 +58,7 @@ Everything we learn while shipping client and product work flows back into our *
 
 <br/>
 
-## 🤝 Contributing
+## Contributing
 
 </div>
 
@@ -170,7 +69,7 @@ We welcome issues and pull requests on all of our open-source repositories.
 3. **Keep it focused.** One concern per pull request, with a clear description of what changed and why.
 4. **Match the style.** Follow the conventions already used in the repository.
 
-> 🔐 **Security:** found a vulnerability? Please email [developers@akcybex.com](mailto:developers@akcybex.com) instead of opening a public issue.
+> **Security.** Found a vulnerability? Please email [developers@akcybex.com](mailto:developers@akcybex.com) instead of opening a public issue.
 
 <br/>
 
@@ -180,11 +79,12 @@ We welcome issues and pull requests on all of our open-source repositories.
 
 <br/>
 
-## 📬 Let's build something
+## Let's build something
 
 Have a project in mind, or want to talk about working together?
 
-<a href="https://akcybex.com"><img src="https://img.shields.io/badge/Visit%20akcybex.com-5fb8e8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit akcybex.com" /></a>&nbsp;
+<a href="https://akcybex.com"><img src="https://img.shields.io/badge/Visit%20akcybex.com-5fb8e8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit akcybex.com" /></a>
+&nbsp;
 <a href="mailto:developers@akcybex.com"><img src="https://img.shields.io/badge/Say%20hello-b56fb8?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email us" /></a>
 
 <br/><br/>
