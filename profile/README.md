@@ -57,21 +57,12 @@ Contributions are welcome on every repository. Open an issue to discuss larger c
 ## Technology
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/tech/php.svg" width="30" alt="PHP" title="PHP">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/tech/laravel.svg" width="30" alt="Laravel" title="Laravel">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/tech/typescript.svg" width="30" alt="TypeScript" title="TypeScript">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/tech/react.svg" width="30" alt="React" title="React">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/tech/nextjs.svg" width="30" alt="Next.js" title="Next.js">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/tech/nodejs.svg" width="30" alt="Node.js" title="Node.js">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/tech/expo.svg" width="30" alt="Expo" title="Expo">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/tech/python.svg" width="30" alt="Python" title="Python">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/tech/docker.svg" width="30" alt="Docker" title="Docker">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/tech/mysql.svg" width="30" alt="MySQL" title="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/tech/tailwindcss.svg" width="30" alt="Tailwind CSS" title="Tailwind CSS">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/icons/tech/wordpress.svg" width="30" alt="WordPress" title="WordPress">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/tech-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/tech-light.svg">
+<img src="https://raw.githubusercontent.com/akcybex/.github/main/assets/cards/tech-light.svg" alt="Technology we work with: PHP, Laravel, Node.js, Python, TypeScript, React, Next.js, Tailwind CSS, Expo, Docker, MySQL and WordPress" width="100%">
+</picture>
 </p>
-
-<p align="center"><sub>PHP · Laravel · TypeScript · React · Next.js · Node.js · Expo · Python · Docker · MySQL · Tailwind CSS · WordPress</sub></p>
 
 <br>
 
